@@ -36,6 +36,6 @@
 
 # miscellaneous
 
-1. **How to Write a Good Paper and How to Give a Good Talk** [[📝notes]](./misc/01 How to Write a Good Paper and How to Give a Good Talk.md) [[slide]](https://web.engr.oregonstate.edu/~huanlian/teaching/writing/cuny-gc/how-to-paper-talk-CUNY.pdf)
+1. **How to Write a Good Paper and How to Give a Good Talk** [[📝notes]](misc/01 How to Write a Good Paper and How to Give a Good Talk.md) [[slide]](https://web.engr.oregonstate.edu/~huanlian/teaching/writing/cuny-gc/how-to-paper-talk-CUNY.pdf)
 
 2. **The Science of Scientific Writing** [[📝notes]]() [[blog]](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)
