@@ -40,3 +40,4 @@
 
 2. **The Science of Scientific Writing** [[📝notes]]() [[blog]](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)
 
+3. **李沐老师：如何读论文** [[📝notes]](misc/03.md) [[video]](https://www.bilibili.com/video/BV1H44y1t75x/?spm_id_from=333.999.0.0)
