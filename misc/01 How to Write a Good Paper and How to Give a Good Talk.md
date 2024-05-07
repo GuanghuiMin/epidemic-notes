@@ -1,0 +1,35 @@
+## How to Write a Good Paper and How to Give a Good Talk
+
+### How to Write a Good Paper
+
+**<font color='red'>truth:</font>** learn from anybody whom you can learn from 
+
+
+
+<span style="background-color: yellow;">Write a paper, and give a talk, about any idea, no matter how weedy and insignificant it may seem to you</span>
+
+ talk, write as early as you can; don’t wait until you feel ready; it doesn’t mean you have to publish it
+
+
+
+![怎么写论文](./images/怎么写论文.png)
+
+
+
+**The process** 
+
+- Start early.  Very early.
+- Collaborate
+- Use CVS(版本控制) to support collaboration
+
+
+
+**Language and style**
+
+- Visual structure
+
+- Use the **active** voice
+
+  <img src="/Users/guanghui/Library/Application Support/typora-user-images/Screenshot 2024-05-07 at 00.00.50.png" alt="Screenshot 2024-05-07 at 00.00.50" style="zoom: 25%;" />
+
+- Use simple, direct language
