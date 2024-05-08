@@ -7,6 +7,10 @@
 
 
 
+🤔 希望在复习回顾的时候能就靠着notes就能捡起来之前看的内容
+
+
+
 ## Catalog
 - [epidemic-notes](#epidemic-notes)
   
@@ -20,22 +24,22 @@
 
 ## GNN
 
-1. [2024] **A Review of Graph Neural Networks in Epidemic Modeling** [[📝notes]](GNN/01.md) [[paper]](https://arxiv.org/pdf/2403.19852) [[repo]](https://github.com/Emory-Melody/awesome-epidemic-modeling-papers)
+1. [2024] **A Review of Graph Neural Networks in Epidemic Modeling** [[📝note]](GNN/01.md) [[paper]](https://arxiv.org/pdf/2403.19852) [[repo]](https://github.com/Emory-Melody/awesome-epidemic-modeling-papers)
 
 
 
 ## Eigenvalues
 
-1. [2005] **The Effect of Network Topology on the Spread of Epidemics** [[📝notes]](Eigenvalues/01.md) [[paper]](https://people.maths.bris.ac.uk/~maajg/infocom-worm.pdf)
+1. [2005] **The Effect of Network Topology on the Spread of Epidemics** [[📝note]](Eigenvalues/01.md) [[paper]](https://people.maths.bris.ac.uk/~maajg/infocom-worm.pdf)
 
-2. [2011] **Threshold Conditions for Arbitrary Cascade Models on Arbitrary Networks** [[📝notes]](Eigenvalues/02.md) [[paper]](https://faculty.cc.gatech.edu/~badityap/papers/gen-threshold-kais12.pdf)
+2. [2011] **Threshold Conditions for Arbitrary Cascade Models on Arbitrary Networks** [[📝note]](Eigenvalues/02.md) [[paper]](https://faculty.cc.gatech.edu/~badityap/papers/gen-threshold-kais12.pdf)
 
 
 
 # miscellaneous
 
-1. **How to Write a Good Paper and How to Give a Good Talk** [[📝notes]](misc/01.md) [[slide]](https://web.engr.oregonstate.edu/~huanlian/teaching/writing/cuny-gc/how-to-paper-talk-CUNY.pdf)
+1. **How to Write a Good Paper and How to Give a Good Talk** [[📝note]](misc/01.md) [[slide]](https://web.engr.oregonstate.edu/~huanlian/teaching/writing/cuny-gc/how-to-paper-talk-CUNY.pdf)
 
-2. **The Science of Scientific Writing** [[📝notes]]() [[blog]](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)
+2. **The Science of Scientific Writing** [[📝note]](misc/02.md) [[blog]](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)
 
-3. **李沐老师：如何读论文** [[📝notes]](misc/03.md) [[video]](https://www.bilibili.com/video/BV1H44y1t75x/?spm_id_from=333.999.0.0)
+3. **李沐老师：如何读论文** [[📝note]](misc/03.md) [[video]](https://www.bilibili.com/video/BV1H44y1t75x/?spm_id_from=333.999.0.0)
