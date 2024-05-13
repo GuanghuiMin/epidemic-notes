@@ -34,6 +34,7 @@
 
 2. [2011] **Threshold Conditions for Arbitrary Cascade Models on Arbitrary Networks** [[📝note]](Eigenvalues/02.md) [[paper]](https://faculty.cc.gatech.edu/~badityap/papers/gen-threshold-kais12.pdf)
 
+3. [2017] **Asymptotics of the spectral radius for directed Chung-Lu random graphs with community structure** [[📝note]](Eigenvalues/03.md) [[paper]](https://arxiv.org/pdf/1705.10893)
 
 
 # miscellaneous
